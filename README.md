@@ -15,4 +15,5 @@ Basic 8 bit addition and subtraction using 2's complement concept.
 
 ## Floating point subtraction
 Basic fixed-point binary subtraction (4.4 format) using 2's complement addition (for subtraction) and fixed point representation of the numbers given. 
+
 ![Floating-Point Subtraction Output](images/floats.png)
