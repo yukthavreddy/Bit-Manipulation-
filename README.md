@@ -10,9 +10,9 @@ This repository contains simple Python programs developed to simulate low-level 
 ```
 ## 8-bit 2's complement (8-bit-2)
 Basic 8 bit addition and subtraction using 2's complement concept. 
-images/8-bit-2.png
+![8-bit Addition and Subtraction Output](images/8-bit-2.png)
 
 
 ## Floating point subtraction
 Basic fixed-point binary subtraction (4.4 format) using 2's complement addition (for subtraction) and fixed point representation of the numbers given. 
-images/floats.png
+![Floating-Point Subtraction Output](images/floats.png)
